@@ -29,9 +29,9 @@ All args after find are joined together with a space. This means `git story find
 **Search Commands**
 
 * [Any of the PT search commands](https://www.pivotaltracker.com/help/faq#howcanasearchberefined)
-* _mine_: will only list your stories
-* _curr_: will only list stories that have been scheduled and have not be accepted.
-* _work_: combines _mine_ and _curr_.
+* `_mine_`: will only list your stories
+* `_curr_`: will only list stories that have been scheduled and have not be accepted.
+* `_work_`: combines `_mine_` and `_curr_`.
 
 **Example**
 
